@@ -9,3 +9,4 @@ Joe: In
 Bridger: Sunday scarries.
 Bridger: I'm learning git today.
 Joe: Golf tomorrow?
+Briger: Yes. And today?

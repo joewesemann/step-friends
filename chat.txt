@@ -11,3 +11,4 @@ Bridger: I'm learning git today.
 Joe: Golf tomorrow?
 Briger: Yes. And today?
 Joe: chat is dead 
+Bridger: It really needs a timestamp feature. Hard to follow. @curtis want to code that up?
